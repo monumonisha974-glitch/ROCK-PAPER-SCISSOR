@@ -6,7 +6,7 @@ A simple and interactive **Rock Paper Scissors** web game where you compete agai
 ## 🌐 Live Demo
 
 **Play the game:**
-https://salmon-verene-12.tiiny.site/
+https://cute-crostata-ce2b43.netlify.app/
 
 ## 📌 About the Project
 
